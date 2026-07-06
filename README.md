@@ -18,7 +18,7 @@ import requests
 import base64
 import zipfile
 import io
-impor o
+imp o
 
 # ----------------------------
 # 1️⃣  BASIC SETTINGS

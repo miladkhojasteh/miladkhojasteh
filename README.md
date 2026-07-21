@@ -1,7 +1,7 @@
 
 
 
-a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - ...

@@ -15,7 +15,7 @@ ouns: ...
 
 4
 import zipfile
-import io
+t io
 
 
 # ----------------------------

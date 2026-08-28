@@ -19,7 +19,7 @@ ort zipfile
 
 
 # ----------------------------
-# 1️⃣  BASIC SETTINGS
+SIC SETTINGS
 # ----------------------------
 owner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"

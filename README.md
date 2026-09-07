@@ -19,7 +19,7 @@ ile
 
 
 # ----------------------------
-IC SETTINGS
+C SETTINGS
 # ----------------------------
 owner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"

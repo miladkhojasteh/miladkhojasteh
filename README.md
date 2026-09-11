@@ -19,7 +19,7 @@ ile
 
 
 ----------------------------
-SETTINGS
+TINGS
 # ----------------------------
 owner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"

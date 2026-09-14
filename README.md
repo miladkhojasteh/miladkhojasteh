@@ -19,7 +19,7 @@ ile
 
 
 ----------------------------
-TINGS
+NGS
 # ----------------------------
 er = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"

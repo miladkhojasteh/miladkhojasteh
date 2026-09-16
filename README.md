@@ -33,7 +33,7 @@ headers = {}  # public repo needs no auth
 # 2️⃣  FETCH ZIP ARCHIVE (quickest way to get the whole repo)
 # ----------------------------
 zip_url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
-resp = requests.get(zip_url, headers=headers)
+resp = requests.get(zip_url, headers=heade
 esp.raise_for_status()
 
 # Unpack the zip into a local folder

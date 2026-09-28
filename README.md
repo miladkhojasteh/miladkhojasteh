@@ -21,7 +21,7 @@ il
 ----------------------------
 GS
 # ----------------------------
- = "OWR"          # e.g. "torvalds"
+ = WR"          # e.g. "torvalds"
 o  = "REPO"           # e.g. "linux"
 branch = "main"          # or the default branch you need
 # If the repo is private, set a token here:

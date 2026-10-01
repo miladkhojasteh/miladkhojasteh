@@ -22,7 +22,7 @@ il
 GS
 # ----------------------------
  = WR"          # e.g. "torvalds"
- "REPO"           # e.g. "linux"
+EPO"           # e.g. "linux"
 branch = "main"          # or the default branch you need
 # If the repo is private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"

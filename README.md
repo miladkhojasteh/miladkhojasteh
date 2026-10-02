@@ -27,7 +27,7 @@ branch = "main"          # or the default branch you need
 # If the repo is private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
-ers = {}  # public repo needs no auth
+s = {}  # public repo needs no auth
 
 # ----------------------------
 # 2️⃣ TCH ZIP ARCHIVE (quickest way to get the whole repo)

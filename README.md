@@ -20,7 +20,7 @@ il
 
 ----------------------------
 GS
-# ----------------------------
+---------------------------
  = WR"          # e.g. "torvalds"
 EPO"           # e.g. "linux"
 branch = "main"          # or the default branch you need

@@ -21,7 +21,7 @@ il
 -------------------------
 
 ---------------------------
-R"          # e.g. "torvalds"
+R"          # eg. "torvalds"
 E"          e.g. "linux"
 branch = "main"          # or the default branch you need
 # If the repo is private, set a token here:

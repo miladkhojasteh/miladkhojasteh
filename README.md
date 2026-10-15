@@ -26,7 +26,7 @@ E"          e.g. "linux"
 branch = "main"          # or the default branch you need
 # If the repo is private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-# headers = {"Authorization": f"token {token}"}
+# headers = {"Authorization": f"token {ken}"}
 {}  blic repo needs no auth
 
 # ----------------------------

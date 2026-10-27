@@ -26,7 +26,7 @@ branch =in"          # or the default branch you need
 # the repo is private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = uthorization": f"token {ken}"}
-{}  c po needs no auth
+{}  cneeds no auth
 
 # ----------------------------
 # 2️⃣ T ZIP ARCHIVE (quickest way to get the whole repo)

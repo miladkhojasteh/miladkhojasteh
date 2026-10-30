@@ -29,7 +29,7 @@ branch =in"          # or the default branch you need
 {}  cneeds no auth
 
 # ----------------------------
-# 2️⃣ T ZIP ARCHIVE (quickest way to get the whole repo)
+# 2️⃣ T ZIPCHIVE (quickest way to get the whole repo)
 # ----------------------------
 zip_url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 resp = requests.get(zip_url, headers=heade

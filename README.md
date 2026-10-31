@@ -25,7 +25,7 @@ R"          # . x"
 branch =in"          # or the default branch you need
 # the repo is privateet a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-# headers = uthorition": f"token {ken}"}
+# headers = uthorition": token {ken}"}
 {}  cneeds no auth
 
 # ----------------------------
